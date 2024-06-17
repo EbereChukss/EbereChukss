@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXbHr_9xbFLmns64PRJhy_40hgAV5Md7Tjw&s)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR926JJfloCxaSmHoEaVYFdwjWbSDMLcqRRng&s)]
 <h1 align="center">Hi 👋, I'm Chukwunenye Abiding</h1>
 <h3 align="center">A brainiac,genuienly intrigued by the idea of "first principle"</h3>
 
